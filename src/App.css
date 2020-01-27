@@ -61,6 +61,7 @@ body {
   margin-left: -15em; /*set to a negative number 1/2 of your width*/
   height: 90%;
   margin-top: 0.5%;
+  margin-bottom: 20%;
 }
 
 .button-div{
