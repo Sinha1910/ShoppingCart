@@ -2,6 +2,10 @@
   text-align: center;
 }
 
+body {
+  background-color: grey;
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
@@ -35,4 +39,82 @@
   to {
     transform: rotate(360deg);
   }
+}
+.Prodlist{
+  display: inline-flex;
+  width: 300px;
+}
+
+.Right-side-details{
+  flex: 1;
+  margin-top: 20%;
+}
+
+.productDetails{
+  overflow-y: scroll;
+  background-color: white;
+  position:fixed;
+  left: 50%;
+  width:20em;
+  height:90em;
+  margin-left: 37%;/*set to a negative number 1/2 of your height*/
+  margin-left: -15em; /*set to a negative number 1/2 of your width*/
+  height: 90%;
+  margin-top: 0.5%;
+}
+
+.button-div{
+  width:10em;
+  margin-right: 27%;
+}
+
+.TotalAmount{
+position: fixed;
+border: 3px solid grey;
+background-color: lightblue;
+text-align: center;
+width: 320px;
+height: 50px;
+bottom: 0;
+left: 32.2%;
+right: 0;
+}
+
+.offer-price{
+  font-style: italic;
+
+}
+
+.price{
+  opacity: 0.7;
+  text-decoration: line-through;
+}
+
+.ShoppingCart{
+  position: fixed;
+  border: 3px solid grey;
+  background-color: lightblue;
+  width: 320px;
+  height: 50px;
+  top: 50;
+  left: 32.2%;
+  right: 0;
+  margin-bottom: 150%;
+  margin-top: -4%;
+  z-index: 2;
+}
+
+
+.main-cart-extra{
+width: 100%;
+height: 4%;
+margin-top: 1%;
+}
+
+.product-list-extra{
+  margin-top: -18%;
+}
+
+.product-details-extra{
+  margin-top: 4%;
 }

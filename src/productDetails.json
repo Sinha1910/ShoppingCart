@@ -1,0 +1,110 @@
+[{
+	"id": 1,
+	"product": "Milk",
+	"quantity": "500 ml",
+	"price": 22,
+	"Offer_price": 20,
+	"url": "milk-product.jpg",
+	"quant": 0,
+	"addedTocart": false
+},
+{
+	"id": 2,
+	"product": "Cheese Spread",
+  "quantity": "100 ml",
+	"price": 80,
+	"Offer_price": 60,
+	"url": "cheese_spread.jpg",
+	"quant": 0,
+	"addedTocart": false
+},
+{
+	"id": 3,
+	"product": "Multigrain Bread",
+  "quantity": "20 pcs",
+	"price":  40,
+	"Offer_price": 35,
+	"url": "multigrain-bread.jpg",
+	"quant": 0,
+	"addedTocart": false
+},
+{
+	"id": 4,
+	"product": "Butter",
+  "quantity": "100 ml",
+	"price": 40,
+	"Offer_price": 35,
+	"url": "butter.jpg",
+	"quant": 0,
+	"addedTocart": false
+},
+{
+	"id": 5,
+	"product": "India Gate Rice",
+  "quantity": "1 KG",
+	"price": 140,
+	"Offer_price": 138,
+	"url": "IndiaGaterice.jpg",
+	"quant": 0,
+	"addedTocart": false
+},
+{
+	"id": 6,
+	"product": "Dal",
+  "quantity": "1 KG",
+	"price": 80,
+	"Offer_price": 72,
+	"url": "Dal.jpg",
+	"quant": 0,
+	"addedTocart": false
+},
+{
+	"id": 7,
+	"product": "Apple",
+  "quantity": "1 KG",
+	"price": 150,
+	"Offer_price": 140,
+	"url": "Apple.jpg",
+	"quant": 0,
+	"addedTocart": false
+},
+{
+	"id": 8,
+	"product": "Olive Oil",
+  "quantity": "1 L",
+	"price": 200,
+	"Offer_price": 172,
+	"url": "OliveOil.jpg",
+	"quant": 0,
+	"addedTocart": false
+},
+{
+	"id": 9,
+	"product": "Mustard Oil",
+  "quantity": "1 L",
+	"price": 140,
+	"Offer_price": 122,
+	"url": "MustardOil.jpg",
+	"quant": 0,
+	"addedTocart": false
+},
+{
+	"id": 10,
+	"product": "Onion",
+  "quantity": "1 KG",
+	"price": 150,
+	"Offer_price": 140,
+	"url": "onion.jpg",
+	"quant": 0,
+	"addedTocart": false
+},
+{
+	"id": 11,
+	"product": "Pomegranate",
+  "quantity": "1 KG",
+	"price": 150,
+	"Offer_price": 140,
+	"url": "pomegranate.jpg",
+	"quant": 0,
+	"addedTocart": false
+}]
