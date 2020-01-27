@@ -32,7 +32,7 @@ export default class DisplayList extends Component{
               <div className="quant" key={list.id}>
                <button type="add_button"
                  onClick={()=> this.props.addProducts(list.id)}>+</button>
-               <span>{list.quant}</span>
+               <span>{" "+list.quant+" "}</span>
                <button type="subtract_comp"
                  onClick={()=> this.props.subtractProducts(list.id)}>-</button>
               </div>
